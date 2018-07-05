@@ -6,7 +6,7 @@ tap "caskroom/cask"
 # cask "visual-studio-code"
 cask "sublime-text"
 cask "pycharm"
-brew "emacs" --cocoa
+brew "emacs" --with-cocoa
 
 # Terminal
 cask "iterm2"
